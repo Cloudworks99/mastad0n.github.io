@@ -1,0 +1,2 @@
+Name,"Full name","Description","Location","Coordinates",URL,Version,DNSSEC validation,No logs,Namecoin,Resolver address,Provider name,Provider public key,Provider public key TXT record
+cpunks-ru,"Cypherpunks.ru","Cypherpunks.ru public DNS server",Russia,,http://www.cypherpunks.ru/DNSCrypt.html,1,no,yes,no,77.51.181.209:5353,2.dnscrypt-cert.cypherpunks.ru,1838:CCA3:D953:0A66:3433:5D50:05BD:3758:44E3:977E:E868:2B6C:5528:12BD:A78D:2E99,
