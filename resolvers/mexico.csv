@@ -1,0 +1,2 @@
+Name,"Full name","Description","Location","Coordinates",URL,Version,DNSSEC validation,No logs,Namecoin,Resolver address,Provider name,Provider public key,Provider public key TXT record
+d0wn-mx-ns1,"D0wn Resolver Mexico 01","Server provided by Martin 'd0wn' Albus","Mexico","",https://dns.d0wn.biz,1,yes,yes,no,201.131.126.212,2.dnscrypt-cert.mx.d0wn.biz,999E:63F0:0DE7:C171:3A72:5625:2A3F:097B:EC3A:D28F:BE28:7569:5C37:E80D:3D55:4FD0,pubkey.mx.dnscrypt.d0wn.biz
