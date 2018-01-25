@@ -1,0 +1,2 @@
+Name,"Full name","Description","Location","Coordinates",URL,Version,DNSSEC validation,No logs,Namecoin,Resolver address,Provider name,Provider public key,Provider public key TXT record
+d0wn-za-ns1,"D0wn Resolver South Africa 01","Server provided by Martin 'd0wn' Albus","South Africa","",https://dns.d0wn.biz,1,yes,yes,no,169.239.181.3,2.dnscrypt-cert.za.d0wn.biz,FBBD:0F3A:AF2B:B1BB:CD8F:9324:D5F6:A68C:E722:3890:8B90:92CF:F6D2:BF7C:9EC1:1368,pubkey.za.dnscrypt.d0wn.biz
