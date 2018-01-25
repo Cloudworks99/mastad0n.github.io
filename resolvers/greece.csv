@@ -1,0 +1,2 @@
+Name,"Full name","Description","Location","Coordinates",URL,Version,DNSSEC validation,No logs,Namecoin,Resolver address,Provider name,Provider public key,Provider public key TXT record
+d0wn-gr-ns1,"D0wn Resolver Greece 01","Server provided by Martin 'd0wn' Albus","Greece","",https://dns.d0wn.biz,1,yes,yes,no,85.25.105.193,2.dnscrypt-cert.gr.d0wn.biz,B19C:0B5C:48F2:58FA:0BE4:67F4:5F50:BC7F:985F:C544:8A4F:BC9D:5574:5A35:5701:8009,pubkey.gr.dnscrypt.d0wn.biz
