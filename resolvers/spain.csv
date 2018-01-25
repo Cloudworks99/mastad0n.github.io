@@ -1,0 +1,3 @@
+Name,"Full name","Description","Location","Coordinates",URL,Version,DNSSEC validation,No logs,Namecoin,Resolver address,Provider name,Provider public key,Provider public key TXT record
+cs-es,"CS Spain DNSCrypt server","provided by cryptostorm.is","Valencia, Spain",,"https://cryptostorm.is",1,"no","yes","yes",185.140.114.51:443,2.dnscrypt-cert.cryptostorm.is,3133:72AD:5956:32C2:416B:872F:098F:851B:DDB9:6528:4C6C:BE9A:4F19:0964:30DB:A95A,
+d0wn-es-ns1,"D0wn Resolver Spain 01","Server provided by Martin 'd0wn' Albus","Spain","",https://dns.d0wn.biz,1,yes,yes,no,91.142.220.29,2.dnscrypt-cert.es.d0wn.biz,EB09:E854:AEDA:9705:CB47:ED69:EADD:4156:3653:82C5:C88D:A2E3:6917:3B54:4774:7505,pubkey.es.dnscrypt.d0wn.biz
