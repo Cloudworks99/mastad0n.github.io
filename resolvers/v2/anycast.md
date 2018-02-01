@@ -1,17 +1,3 @@
-# public-resolvers
-
-This is an extensive list of public DNS resolvers supporting the
-DNSCrypt and DNS-over-HTTP2 protocols.
-
-This list is maintained by Frank Denis <j @ dnscrypt [.] info>
-
-Warning: it includes servers that may censor content, servers that don't
-verify DNSSEC records, and servers that will collect and monetize your
-queries.
-
-Adjust the `require_*` options in dnscrypt-proxy to filter that list
-according to your needs.
-
 ***************
 *** Anycast ***
 ***************
