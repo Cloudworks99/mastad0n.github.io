@@ -1,2 +1,2 @@
-# mastad0n.github.io
+# https://mastad0n.github.io
 DNSCrypt Resolvers
